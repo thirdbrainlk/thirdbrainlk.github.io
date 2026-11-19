@@ -1,0 +1,6 @@
+1. Open your GitHub repository thirdbrainlk.github.io
+2. Upload ALL files and folders from this ZIP to the repository root.
+3. Go to Settings > Pages.
+4. Source: Deploy from a branch.
+5. Branch: main. Folder: /(root).
+6. Save.
